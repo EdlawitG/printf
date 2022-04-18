@@ -474,17 +474,4 @@ Output:
 -9223372036854775808           -> LONG_MIN
 ```
 
-## Authors :black_nib:
 
-* Anteneh Kassaw Bizuneh <[Anteneh2121](https://github.com/Anteneh2121)>
-* Tesfay Daniel <[Tesfay](https://github.com/TesfayDaniel)>
-
-## License :lock:
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## Acknowledgements :pray:
-
-The `_printf` function emulates functionality of the C standard library
-function `printf`. This README borrows from the Linux man page
-[printf(3)](https://linux.die.net/man/3/printf).
